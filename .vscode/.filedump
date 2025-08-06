@@ -1,0 +1,6 @@
+
+		begin
+      f = addfile("/mnt/c/Users/freitasl/Documents/ReposGIT/metrics_for_y09_model/data/Angourie_daily.nc","r")
+      print(f)
+		end
+    
